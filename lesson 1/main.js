@@ -21,9 +21,9 @@ appData.expenses[a3] = a4;
 
 alert(appData.budget / 30);
 
-// типы данных
 
-/* number
+/* типы данных
+number
 strung
 Symbol()
 Object
